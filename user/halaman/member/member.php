@@ -5,7 +5,7 @@
 <h3>
     <center>Universitas Duta Bangsa</center>
 </h3>
-<a href="index.php?page=pinjamtambah" class="btn btn-primary">Peminjaman Buku</a>
+<a href="index.php?page=pinjamtambah" class="btn btn-primary">aplikasi film</a>
 
 <!--awal table-->
 <table align="center" class="table table-bordered table-striped table-hover">
