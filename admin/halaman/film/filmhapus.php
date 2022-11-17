@@ -8,6 +8,7 @@
     //query untuk menghapus data
    $q = mysqli_query($sambung,"delete from tb_datafilm where id_film='$id_film'");
 
+   
     //arahkan ke halaman data setelah menghapus 1 data film
     header("location:../../index.php?page=film");
 ?>
